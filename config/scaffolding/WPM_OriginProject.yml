@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/lakshmidevi277/WPM_OriginProject
   gitUsername: lakshmidevi277
   gitBranch: main
+- name: WPM_Origin_16_05_2024
+  gitServerName: lakrgit
+  gitUrl: https://github.com/lakshmidevi277
+  gitUsername: lakshmidevi277
+  gitBranch: main
