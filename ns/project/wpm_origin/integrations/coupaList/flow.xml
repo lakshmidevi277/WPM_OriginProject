@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FLOW VERSION="1.0" CLEANUP="false">
+  <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE NAME="WPM_Origin_16_05_2024" SERVICE="ccs:coupa">
+  <COMMENT></COMMENT>
+</INVOKE>
+</FLOW>

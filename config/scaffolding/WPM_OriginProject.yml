@@ -12,3 +12,14 @@ packages:
   gitUrl: https://github.com/lakshmidevi277
   gitUsername: lakshmidevi277
   gitBranch: main
+services:
+- serviceName: project.wpm_origin.integrations:amazon
+  packages:
+  - name: WPM_OriginProject
+    version: "1.0"
+  - name: WPM_Origin_16_05_2024
+    version: "1.0"
+- serviceName: ccs:amazonS3
+  packages:
+  - name: WPM_Origin_16_05_2024
+    version: "1.0"
