@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: WPM_OriginProject
+  gitServerName: lakrgit
+  gitUrl: https://github.com/lakshmidevi277/WPM_OriginProject
+  gitUsername: lakshmidevi277
+  gitBranch: main
