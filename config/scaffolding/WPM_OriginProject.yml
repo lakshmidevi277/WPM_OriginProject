@@ -12,6 +12,11 @@ packages:
   gitUrl: https://github.com/lakshmidevi277
   gitUsername: lakshmidevi277
   gitBranch: main
+- name: Lakshmi
+  gitServerName: lakrgit
+  gitUrl: https://github.com/lakshmidevi277
+  gitUsername: lakshmidevi277
+  gitBranch: main
 services:
 - serviceName: project.wpm_origin.integrations:amazon
   packages:
